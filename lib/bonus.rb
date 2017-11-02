@@ -20,7 +20,8 @@ def bonus
    }
   }
 
-  #code your solution here:
+epic-tragedy[montague][hero][status] = "dead"
+epic-tragedy[montague][heroine][status] = "dead"
 
   
 
